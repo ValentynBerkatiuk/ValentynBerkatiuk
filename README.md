@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Valentyn Berkatiuk</h1>
 <h3 align="center">A visionary Android developer with 1.5 years of experience who writes code with a keen eye for the strategic business impact it delivers. I thoroughly research competitor’s products to incorporate innovative functionalities into the project, skillfully advocating ideas during negotiations with management and passionately driven by the products and solutions I create. I’m also not obligated to military mobilization and provided with unbroken supply of power and internet.</h3>
 
-[![Alla Kaplia profile views](https://u8views.com/api/v1/github/profiles/118439299/views/day-week-month-total-count.svg)](https://u8views.com/github/ValentinBerkatyuk)
+[![Valentyn profile views](https://u8views.com/api/v1/github/profiles/72772459/views/day-week-month-total-count.svg)](https://u8views.com/github/ValentynBerkatiuk)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/alla-kaplia](https://www.linkedin.com/in/alla-kaplia)  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png" alt="Love Letter" width="25" height="25" />
 
