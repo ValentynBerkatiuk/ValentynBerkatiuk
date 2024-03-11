@@ -31,13 +31,13 @@ Other: Git(GitHub, GitLab), EXO Player / VLC Player, Jira / Trello, Firebase(cra
 
 <h3 align="left">Backend:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=ktor,sqlite)](https://dou.ua/users/alla-kaplia/topics/)
+[![My Skills](https://skillicons.dev/icons?i=ktor,sqlite)]
 
 <h3 align="left">Development Tools: </h3>
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,git,github,gitlab)](https://skillicons.dev)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ValentynBerkatiuk&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ValentynBerkatiuk&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentynBerkatiuk&size_weight=0&count_weight=1&theme=shadow_green)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValentynBerkatiuk&show_icons=true&theme=shadow_green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentynBerkatiuk&size_weight=0&count_weight=1&theme=gotham)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValentynBerkatiuk&show_icons=true&theme=gotham)
