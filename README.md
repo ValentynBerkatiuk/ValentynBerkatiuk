@@ -42,4 +42,4 @@ Other: Git(GitHub, GitLab), EXO Player / VLC Player, Jira / Trello, Firebase(cra
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentynBerkatiuk&size_weight=0&count_weight=1&theme=gotham)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValentynBerkatiuk&show_icons=true&theme=gotham)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValentynBerkatiuk&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValentynBerkatiuk&repo=github-readme-stats)](https://github.com/ValentynBerkatiuk/CalorieTracker)
