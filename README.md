@@ -3,39 +3,45 @@
 
 [![Valentyn profile views](https://u8views.com/api/v1/github/profiles/72772459/views/day-week-month-total-count.svg)](https://u8views.com/github/ValentynBerkatiuk)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/alla-kaplia](https://www.linkedin.com/in/alla-kaplia)  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png" alt="Love Letter" width="25" height="25" />
+- 📝 I regularly write articles on [https://www.linkedin.com/in/valentyn-berkatiuk](https://www.linkedin.com/in/valentyn-berkatiuk)
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Right%20Anger%20Bubble.png" alt="Right Anger Bubble" width="25" height="25" />   Ask me about **my technology stack if you're interested in hiring me**  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cat%20with%20Wry%20Smile.png" alt="Cat with Wry Smile" width="25" height="25" />
+My current tech stack is:
+General: OOP, SOLID, Android SDK, Clean Architecture.
+Languages: Kotlin / Java.
+Design Patterns(Presentation layer): MVP / MVVM / MVI (MVVM based).
+Dependency Injection: Dagger 2 / Hilt.
+Multithreading: Coroutines and Kotlin Flow / RxJava.
+Network and Local: REST API, Retrofit2 / OkHttp, Room(SQLite).
+View: XML / Jetpack Compose.
+Navigation: Jetpack Navigation / Compose Navigation.
+Tests: JUnit, Jupiter, MockK, Espresso, Robolectric.
+AI: Bing AI, ChatGPT 4.0, GitHub Copilot.
+Other: Git(GitHub, GitLab), EXO Player / VLC Player, Jira / Trello, Firebase(crashlytics, analytics, app distribution).
 
-- 📫 How to reach me **kaplia.alla18@gmail.com**
-
-- ⚡ Fun fact: **I’m interested in IT technologies💻, history Ukraine 🇺🇦, sport 🏓 🏸 🎳, I like mountains ⛰ and camping 🏕**  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="25" height="25" />
+- 📫 How to reach me **valentinberkatyuk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alla-kaplia/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AllaKaplia)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/kaplia.alla)
-[![DOU](https://s.dou.ua/assets/img/favicon32.png)](https://dou.ua/users/alla-kaplia/topics/)
-[![GitLub](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/AllaKaplia)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentyn-berkatiuk/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Valentyn_Berkut)
 
 <h2 align="center">My skills</h3>
-<h3 align="left">Frontend:</h3>
+<h3 align="left">Programming Languages</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,sass,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java)](https://skillicons.dev)
 
 <h3 align="left">Backend:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb)](https://dou.ua/users/alla-kaplia/topics/)
+[![My Skills](https://skillicons.dev/icons?i=ktor,sqlite)](https://dou.ua/users/alla-kaplia/topics/)
 
 <h3 align="left">Development Tools: </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,vscode,bash,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,git,github,gitlab)](https://skillicons.dev)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AllaKaplia&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ValentynBerkatiuk&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllaKaplia&size_weight=0&count_weight=1&theme=merko)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllaKaplia&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentynBerkatiuk&size_weight=0&count_weight=1&theme=github-compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValentynBerkatiuk&show_icons=true&theme=github-compact)
