@@ -41,5 +41,3 @@ Other: Git(GitHub, GitLab), EXO Player / VLC Player, Jira / Trello, Firebase(cra
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentynBerkatiuk&size_weight=0&count_weight=1&theme=gotham)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValentynBerkatiuk&show_icons=true&theme=gotham)
-
-[gotham_repo]: https://github-readme-stats.vercel.app/api/pin/?username=ValentynBerkatiuk&repo=CalorieTracker&theme=gotham
