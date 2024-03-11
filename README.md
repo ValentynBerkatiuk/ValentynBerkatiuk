@@ -31,7 +31,7 @@ Other: Git(GitHub, GitLab), EXO Player / VLC Player, Jira / Trello, Firebase(cra
 
 <h3 align="left">Backend:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=ktor,sqlite)]
+![My Skills](https://skillicons.dev/icons?i=ktor,sqlite)
 
 <h3 align="left">Development Tools: </h3>
 
